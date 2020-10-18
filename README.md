@@ -1,2 +1,5 @@
+![Logo](assets/riskywhiskey_logo.png)
+
 # RiskyWhiskey
-Just a readme...
+
+This where the pretty things will happen...
